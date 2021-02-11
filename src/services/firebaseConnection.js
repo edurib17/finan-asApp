@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/database';
 
 let firebaseConfig = {
-    apiKey: "AIzaSyCsk8CvtTWPSbCBaeKZkILi9zTuFWYwqf0",
-    authDomain: "financasapp-4b103.firebaseapp.com",
-    projectId: "financasapp-4b103",
-    storageBucket: "financasapp-4b103.appspot.com",
-    messagingSenderId: "94349732741",
-    appId: "1:94349732741:web:025350fef45957f83f32ec"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 //not to have duplicate connection
